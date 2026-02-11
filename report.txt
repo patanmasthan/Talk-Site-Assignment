@@ -1,0 +1,7 @@
+Markdown Validation Report
+-------------------------
+Line 1: Heading format wrong → Suggestion: add space after #
+Line 2: Bold syntax error → Suggestion: close **
+Line 3: Invalid link → Suggestion: correct URL
+
+Total Issues: 3
